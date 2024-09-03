@@ -1,0 +1,56 @@
+{
+  "name": "Loghadhith",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/logha.jpeg",
+    "alt": "logha"
+  },
+  "type": "member",
+  "aka": "logha",
+  "skincolor": "#B27E6A",
+  "quote": "I typed your symptoms on the thing up here, and it says you could have network connectivity problems. https://www.youtube.com/watch?v=LinpRhB4aWU",
+  "maintaining": [
+    {
+      "project name": "ZIDE",
+      "repo url": "https://github.com/bitspaceorg/zide"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    }
+  ],
+  "links": [
+    {
+      "name": "XXX",
+      "url": "XXX"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "loghadhith"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

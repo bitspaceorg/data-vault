@@ -1,0 +1,86 @@
+{
+  "India Foss": {
+    "name": "India Foss",
+    "tag": "A National Level Open-Source Event",
+  	"when": {
+  	  "date": "07",
+  	  "month": "september",
+  	  "year": "2024"
+  	},
+  	"till": {
+  	  "date": "08",
+  	  "month": "september",
+  	  "year": "2024"
+  	}
+  }, 
+  "Bytecon-100 Yuvenza": {
+  	"name": "Bytecon-100 Yuvenza",
+  	"tag": "Introduction To Open-Source",
+  	"when": {
+  	  "date": "13",
+  	  "month": "January",
+  	  "year": "2023"
+  	},
+  	"till": {
+  	  "date": "13",
+  	  "month": "January",
+  	  "year": "2023"
+  	}
+  },
+  "Bytecon-102": {
+  	"name": "Bytecon-102",
+  	"tag": "An Open Source Odyssey",
+  	"when": {
+  	  "date": "23",
+  	  "month": "September",
+  	  "year": "2023"
+  	},
+  	"till": {
+  	  "date": "23",
+  	  "month": "September",
+  	  "year": "2023"
+  	}
+  },
+  "Bytecon-102 CS": {
+  	"name": "Bytecon-102 CS",
+  	"tag": "Networking with Linux",
+  	"when": {
+  	  "date": "25",
+  	  "month": "September",
+  	  "year": "2023"
+  	},
+  	"till": {
+  	  "date": "25",
+  	  "month": "September",
+  	  "year": "2023"
+  	}
+  },
+  "Bytecon-102 AIML": {
+  	"name": "Bytecon-102 AIML",
+  	"tag": "AIML and Beyond",
+  	"when": {
+  	  "date": "25",
+  	  "month": "September",
+  	  "year": "2023"
+  	},
+  	"till": {
+  	  "date": "25",
+  	  "month": "September",
+  	  "year": "2023"
+  	}
+  },
+  "Bytecon-102 AIDS": {
+  	"name": "Bytecon-102 AIDS",
+  	"tag": "Data Science Excellence",
+  	"when": {
+  	  "date": "2",
+  	  "month": "March",
+  	  "year": "2023"
+  	},
+  	"till": {
+  	  "date": "2",
+  	  "month": "March",
+  	  "year": "2023"
+  	}
+  }
+}

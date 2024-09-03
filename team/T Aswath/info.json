@@ -1,0 +1,59 @@
+{
+  "name": "T Aswath",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/preggostand.jpg",
+    "alt": "t-aswath"
+  },
+  "type": "vice president",
+  "aka": "asswath",
+  "skincolor": "#A26D5D",
+  "quote": "The idea of Heaven is a world where humans know true happiness without worrying about their future and live in bliss. Cherish the now, and let each moment be a step closer to serenity.",
+  "maintaining": [
+    {
+      "project name": "STAND",
+      "repo url": "https://github.com/bitspaceorg/stand"
+    },
+    {
+      "project name": "WEATHER REPORTO",
+      "repo url": "https://github.com/bitspaceorg/weather-reporto.nvim"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Basic"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/t-aswath"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/t-aswath/"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "__asagirigen__"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": []
+}

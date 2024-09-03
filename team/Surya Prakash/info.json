@@ -1,0 +1,64 @@
+{
+  "name": "Surya Prakash",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/psp.jpg",
+    "alt": "psp"
+  },
+  "type": "member",
+  "aka": "psp",
+  "skincolor": "#F3D5CC",
+  "quote": "If it ain’t broke, it doesn’t have enough features yet.",
+  "maintaining": [
+    {
+      "project name": "STAND",
+      "repo url": "https://github.com/bitspaceorg/stand"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/suryaaprakassh"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/suryaaprakassh"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "suryaaprakassh"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

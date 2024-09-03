@@ -1,0 +1,56 @@
+{
+  "name": "Bytecon-102",
+  "tag": "An Open Source Odyssey",
+  "when": {
+    "date": "23",
+    "month": "September",
+    "year": "2023"
+  },
+  "till": {
+    "date": "23",
+    "month": "September",
+    "year": "2023"
+  },
+  "description": "Welcome to the world of limitless possibilities in the realm of Full Stack Development and Open Source technology! Our workshop is designed to take you on an exciting journey where you'll explore the dynamic landscape of full-stack development while embracing the power of open source. In this immersive experience, you'll gain hands-on knowledge and insights that will empower you to build robust, scalable, and cost-effective applications. Get ready to dive into the vibrant ecosystem of open source tools and frameworks, equipping yourself with the skills needed to navigate the ever-evolving tech industry. Join us and embark on a transformative learning adventure!.",
+  "link": "https://github.com/bitspaceorg/Bytecon-102-Open-Source-Odyssey",
+  "mentors": [
+    {
+      "name": "Srivastav Auswin",
+      "role": "Introduction To Open-Source"
+    },
+    {
+      "name": "Rahul M Navneeth",
+      "role": "Why Open-Source"
+    },
+    {
+      "name": "MK Mukesh Kannan",
+      "role": "Creating A Frontend App"
+    },
+    {
+      "name": "Naveen Prem",
+      "role": "Git and Github"
+    },
+    {
+      "name": "Bharath Sanjeevi",
+      "role": "Using git along with the app"
+    },
+    {
+      "name": "T Aswath",
+      "role": "Creating A Backend App"
+    },
+    {
+      "name": "Albert Richard",
+      "role": "Markdown"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ],
+  "header": {
+    "url": "https://private-user-images.githubusercontent.com/119940345/263265246-3eb01ecb-5bfd-4fbe-ab9a-4bda7716b10a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxOTg0MjEsIm5iZiI6MTcyNTE5ODEyMSwicGF0aCI6Ii8xMTk5NDAzNDUvMjYzMjY1MjQ2LTNlYjAxZWNiLTViZmQtNGZiZS1hYjlhLTRiZGE3NzE2YjEwYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwMVQxMzQyMDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjMxZTRmOWM2YWQ2NjhiZWFkZDVkNTM0NjMzMGZlN2ZkOWViNDI0YzgyNWNmNjU5MzM1OGExY2ViOGYzNTFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.x2hSiAPjwXYlJ9R8CueCeCTzhF-Q-UzAUKC7paPckho",
+    "alt": "sample"
+  }
+}

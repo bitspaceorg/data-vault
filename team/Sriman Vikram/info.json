@@ -1,0 +1,64 @@
+{
+  "name": "Sriman Vikram",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/simran.jpg",
+    "alt": "simran"
+  },
+  "type": "member",
+  "aka": "simran:d4rk",
+  "skincolor": "#F3D5CC",
+  "quote": "Don't Be Sorry. Be Better To Catch A Fly From The Ass Of Zeus Is Not Worth My Time, Hermes! You can no longer hide behind the skirts of Athena. Boy!",
+  "maintaining": [
+    {
+      "project name": "ZIDE",
+      "repo url": "https://github.com/bitspaceorg/zide"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Basic"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    },
+    {
+      "name": "OpenGL",
+      "level": "Basic"
+    }
+  ],
+  "links": [
+    {
+      "name": "XXX",
+      "url": "XXX"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "vikram_761"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

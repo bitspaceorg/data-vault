@@ -1,0 +1,56 @@
+{
+  "name": "Nadeem",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/al-qaeda.jpg",
+    "alt": "nadeem"
+  },
+  "type": "member",
+  "aka": "not a terrorist",
+  "skincolor": "#DDB2A0",
+  "quote": "All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken,The crownless again shall be king.",
+  "maintaining": [
+    {
+      "project name": "STAND",
+      "repo url": "https://github.com/bitspaceorg/stand"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Computer Networks",
+      "level": "Advanced++"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Nadeem-05"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/nadeem05"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "technicaldiff"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

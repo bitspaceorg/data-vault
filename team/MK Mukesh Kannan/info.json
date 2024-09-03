@@ -1,0 +1,72 @@
+{
+  "name": "MK Mukesh Kannan",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "alt": "mk-mukesh-kannan"
+  },
+  "type": "mentor",
+  "aka": "bitspace jesus",
+  "skincolor": "#A26D5D",
+  "quote": "Shikanaka nokonoko dashitaitai,Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai, Shikanaka nokonoko dashitaitai",
+  "maintaining": [
+    {
+      "project name": "ZIDE",
+      "repo url": "https://github.com/bitspaceorg/zide"
+    },
+    {
+      "project name": ".com",
+      "repo url": "https://github.com/bitspaceorg/bitspace"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Basic"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    },
+    {
+      "name": "OpenGL",
+      "level": "Basic"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/MKMukeshkannan"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/mukesh-kannan-mk"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "mkmukeshkannan"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

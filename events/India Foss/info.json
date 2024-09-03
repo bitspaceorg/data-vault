@@ -1,0 +1,76 @@
+{
+  "name": "India Foss",
+  "tag": "A National Level Open-Source Event",
+  "when": {
+    "date": "07",
+    "month": "september",
+    "year": "2024"
+  },
+  "till": {
+    "date": "08",
+    "month": "september",
+    "year": "2024"
+  },
+  "description": "We'll share all the details with you once the event concludes.",
+  "link": "https://fossunited.org/",
+  "mentors": [
+    {
+      "name": "Rahul M Navneeth",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Srivatsav Auswin",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "MK Mukesh Kannan",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "T Aswath",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Naveen Prem",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Ravi Prasath KJ",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Bharath Sanjeevi",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Albert Richard",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Surya Prakash",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Lodhadhith JR",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Nadeem",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Sriman Vikram",
+      "role": "Open source enthusiast"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ],
+  "header": {
+    "url": "https://scontent.fmaa3-3.fna.fbcdn.net/v/t39.30808-6/319695530_3030274227278716_4785906132546443097_n.png?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=gRUKVS3T9uQQ7kNvgHiXWr4&_nc_ht=scontent.fmaa3-3.fna&oh=00_AYCTbJKZ84tUpD3H9QebEDhx8iYpGnAJiHR7N7PXPbxT9A&oe=66DA345A",
+    "alt": "fossunited-banner"
+  }
+}

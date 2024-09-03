@@ -1,0 +1,52 @@
+{
+  "name": "Bytecon-100 Yuvenza",
+  "tag": "Introduction To Open-Source",
+  "when": {
+    "date": "13",
+    "month": "January",
+    "year": "2023"
+  },
+  "till": {
+    "date": "13",
+    "month": "January",
+    "year": "2023"
+  },
+  "description": "This session is your gateway to the world of collaborative coding and open-source projects on GitHub. Whether you're new to the concept or looking to enhance your skills, this workshop will provide you with essential insights into version control, Git, and GitHub. By the end, you'll not only grasp these foundational tools but also feel empowered to engage in the dynamic realm of open source, contributing to projects that impact the global developer community.",
+  "link": "https://github.com/bitspaceorg/Bytecon100-Yuvenza",
+  "mentors": [
+    {
+      "name": "Srivatsav Auswin",
+      "role": "Introduction To Open-Source"
+    },
+    {
+      "name": "Rahul M Navneeth",
+      "role": "Why Open-Source & Hands-on interactive demo"
+    },
+    {
+      "name": "Bharath Sanjeevi",
+      "role": "Git & Github"
+    },
+    {
+      "name": "MK Mukesh Kannan",
+      "role": "Using git along a project"
+    },
+    {
+      "name": "T Aswath",
+      "role": "Markdown"
+    },
+    {
+      "name": "Albert Richard",
+      "role": "Markdown"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ],
+  "header": {
+    "url": "",
+    "alt": ""
+  }
+}

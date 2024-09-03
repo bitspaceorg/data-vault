@@ -1,0 +1,72 @@
+{
+  "name": "Bharath Sanjeevi",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/java.jpg",
+    "alt": "java"
+  },
+  "type": "board member",
+  "aka": "java",
+  "skincolor": "#000000",
+  "quote": "Either she froze time, met and married the man of her dreams, unfroze time and smiled at you, or..., you are a dogface.",
+  "maintaining": [
+    {
+      "project name": ".com",
+      "repo url": "https://github.com/bitspaceorg/bitspace"
+    },
+    {
+      "project name": "api.bitspace",
+      "repo url": "https://github.com/bitspaceorg/api.bitspace"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced++"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Basic"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    },
+    {
+      "name": "OpenGL",
+      "level": "Basic"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/BharathSanjeeviT"
+    },
+    {
+      "name": "Linkedin",
+      "url": "XXX"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "bharath_2974"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

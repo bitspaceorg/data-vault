@@ -1,0 +1,72 @@
+{
+  "name": "Naveen Prem",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/naveen.JPG",
+    "alt": "naveen-mp"
+  },
+  "type": "board member",
+  "aka": "biriyani",
+  "skincolor": "#B27E6A",
+  "quote": "Oh, a tree you shall burn! Burn for the sake of the new Lord! Burn the Erdtree to the ground, and incinerate all that divides and distinguishes! Ahhh, may chaos take the world! May chaos take the world!",
+  "maintaining": [
+    {
+      "project name": "ZIDE",
+      "repo url": "https://github.com/bitspaceorg/zide"
+    },
+    {
+      "project name": "api.bitspace",
+      "repo url": "https://github.com/bitspaceorg/api.bitspace"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Basic"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    },
+    {
+      "name": "OpenGL",
+      "level": "Basic"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/navi-prem"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/navi-prem"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "infi_here_"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

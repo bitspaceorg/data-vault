@@ -1,0 +1,64 @@
+{
+  "name": "Srivatsav Auswin",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/sak.jpg",
+    "alt": "sak"
+  },
+  "type": "CCO",
+  "aka": "the negotiator",
+  "skincolor": "#A26D5D",
+  "quote": "For those regarded as warriors, when engaged in combat the vanquishing of thine enemy can be the warrior's only concern. Suppress all human emotion and compassion. Kill whoever stands in thy way, even if that be Lord God, or Buddha himself. This truth lies at the heart of the art of combat.",
+  "maintaining": [
+    {
+      "project name": "STAND",
+      "repo url": "https://github.com/bitspaceorg/stand"
+    },
+    {
+      "project name": ".com",
+      "repo url": "https://github.com/bitspaceorg/bitspace"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "UI/UX",
+      "level": "Advanced"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Sak1012"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/srivatsav-auswin"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": ".sak1012"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

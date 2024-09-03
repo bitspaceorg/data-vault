@@ -1,0 +1,44 @@
+{
+  "name": "Bytecon-102 AIDS",
+  "tag": "Data Science Excellence",
+  "when": {
+    "date": "2",
+    "month": "March",
+    "year": "2023"
+  },
+  "till": {
+    "date": "2",
+    "month": "March",
+    "year": "2023"
+  },
+  "description": "Welcome to the intersection of two transformative worlds: Open Source and Data Science! In this workshop, we delve into the synergy between the principles of open source software and the cutting-edge field of data science. Open source tools and libraries have become the bedrock of data analysis, machine learning, and AI, empowering individuals and organizations to harness the power of data. Whether you're a data enthusiast, a budding data scientist, or an experienced practitioner, this workshop promises to be an enlightening journey into the collaborative and innovative spirit of open source data science. Get ready to explore the vast possibilities, share knowledge, and unlock insights that can drive decision-making and innovation. Let's embark on this exciting fusion of open source and data science!",
+  "link": "https://github.com/bitspaceorg/Bytecon-102-Data-Science-Excellence",
+  "mentors": [
+    {
+      "name": "Srivatsav Auswin",
+      "role": "Introduction to Data Science"
+    },
+    {
+      "name": "Rahul M Navneeth",
+      "role": "Hands-on demo using Hugging face"
+    },
+    {
+      "name": "T Aswath",
+      "role": "Data visualization"
+    },
+    {
+      "name": "MK Mukesh Kannan",
+      "role": "Numpy & Pandas"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ],
+  "header": {
+    "url": "",
+    "alt": ""
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Raviprasath KJ",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/ravi.JPG",
+    "alt": "rpkjpmc"
+  },
+  "type": "mentor",
+  "aka": "RPKJPMC",
+  "skincolor": "#B27E6A",
+  "quote": "Why don't open source developers need a therapist? Because they always get their issues Merged, Resolved, And closed!",
+  "maintaining": [
+    {
+      "project name": ".com",
+      "repo url": "https://github.com/bitspaceorg/bitspace"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate (bros CM)"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Low Level Programming",
+      "level": "Basic"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/raviprasathkj"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/raviprasathkj05"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "raviprasath_05"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}

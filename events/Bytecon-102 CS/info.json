@@ -1,0 +1,48 @@
+{
+  "name": "Bytecon-102 CS",
+  "tag": "Networking with Linux",
+  "when": {
+    "date": "25",
+    "month": "September",
+    "year": "2023"
+  },
+  "till": {
+    "date": "25",
+    "month": "September",
+    "year": "2023"
+  },
+  "description": "Welcome to the 'Networking with Kali' workshop, where we embark on a journey into the world of network security and penetration testing. In an age where our digital footprints are constantly expanding, understanding how to secure and assess networks is paramount. Kali Linux, a powerful cybersecurity toolkit, will be our trusted companion on this exploration. Whether you're a seasoned network professional or someone curious about the fundamentals of network security, this workshop promises to equip you with the knowledge and skills needed to safeguard networks and uncover vulnerabilities. Get ready to dive into the realm of ethical hacking, as we navigate the intricate pathways of network defense and penetration testing with Kali Linux as our guide. Let's begin our exciting journey!",
+  "link": "https://github.com/bitspaceorg/Bytecon-102-NetworkingWithLinux",
+  "mentors": [
+    {
+      "name": "Srivatsav Auswin",
+      "role": "Introduction to Networking"
+    },
+    {
+      "name": "T Aswath",
+      "role": "VM Ware, Kali & NMAP "
+    },
+    {
+      "name": "Bharath Sanjeevi",
+      "role": "Subnets"
+    },
+    {
+      "name": "Ravi Prasath KJ",
+      "role": "Linux commands"
+    },
+    {
+      "name": "Naveen Prem",
+      "role": "Protocols"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ],
+  "header": {
+    "url": "",
+    "alt": ""
+  }
+}

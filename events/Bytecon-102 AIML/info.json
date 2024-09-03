@@ -1,0 +1,44 @@
+{
+  "name": "Bytecon-102 AIML",
+  "tag": "AIML and Beyond",
+  "when": {
+    "date": "25",
+    "month": "September",
+    "year": "2023"
+  },
+  "till": {
+    "date": "25",
+    "month": "September",
+    "year": "2023"
+  },
+  "description": "Welcome to the exciting world of Machine Learning! In this workshop, we embark on a captivating journey into the heart of artificial intelligence, where data comes to life and algorithms learn to make predictions, recommendations, and decisions. Machine Learning is the driving force behind the intelligent systems that shape our daily lives, from recommendation engines on streaming platforms to autonomous vehicles. Throughout this immersive experience, we will demystify the core concepts, algorithms, and techniques that underpin machine learning, empowering you to leverage the power of data to solve complex problems. Whether you're a novice curious about the possibilities of ML or an experienced practitioner looking to sharpen your skills, this workshop promises to be a rewarding exploration of this transformative field. Let's dive in and unlock the secrets of Machine Learning together!",
+  "link": "https://github.com/bitspaceorg/Bytecon-102-AIMLandBeyond",
+  "mentors": [
+    {
+      "name": "Rahul M Navneeth",
+      "role": "Introduction to AIML & Hands-on demo using Hugging face"
+    },
+    {
+      "name": "MK Mukesh Kannan",
+      "role": "Numpy & Pandas"
+    },
+    {
+      "name": "Sriram",
+      "role": "Tensorflow"
+    },
+    {
+      "name": "Albert Richard",
+      "role": "ML Theory & Data Handling"
+    }
+  ],
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ],
+  "header": {
+    "url": "",
+    "alt": ""
+  }
+}

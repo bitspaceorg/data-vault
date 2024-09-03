@@ -1,0 +1,60 @@
+{
+  "name": "Albert Richard",
+  "pic": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/bert2.jpg",
+    "alt": "albert"
+  },
+  "type": "board member",
+  "aka": "albot",
+  "skincolor": "#C38F7B",
+  "quote": "\"When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.\" - Einstein",
+  "maintaining": [
+    {
+      "project name": "d-bot",
+      "repo url": "https://github.com/bitspaceorg/d-bot"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Fullstack Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "VIM",
+      "level": "Advanced"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://www.github.com/titan-rocky"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/albert-richard-74367924a"
+    }
+  ],
+  "contact": {
+    "mail": "XXX",
+    "discord": "titan_rocky.exe"
+  },
+  "body": {
+    "height": "XXX",
+    "weight": "XXX"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}
