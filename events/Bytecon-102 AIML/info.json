@@ -31,14 +31,9 @@
       "role": "ML Theory & Data Handling"
     }
   ],
-  "gallery": [
-    {
-      "url": "",
-      "alt": ""
-    }
-  ],
+  "gallery": [],
   "header": {
-    "url": "",
-    "alt": ""
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/werk/DSCF2136.JPG",
+    "alt": "workshop-header"
   }
 }
