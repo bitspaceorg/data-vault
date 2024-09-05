@@ -45,7 +45,7 @@
     },
     {
       "name": "Rizz",
-      "level": "INFINITY",
+      "level": "INFINITY"
     }
   ],
   "links": [
@@ -67,10 +67,5 @@
     "weight": "75kg"
   },
   "hit ratio": "100",
-  "gallery": [
-    {
-      "url": "",
-      "alt": ""
-    }
-  ]
+  "gallery": []
 }
