@@ -1,0 +1,71 @@
+{
+  "name": "Foss HACK",
+  "tag": ["Hackathon","Open-Soure","Foss United"],
+  "when": {
+    "date": "22",
+    "month": "febrarury",
+    "year": "2025"
+  },
+  "till": {
+    "date": "23",
+    "month": "febrarury",
+    "year": "2025"
+  },
+  "description": "FOSS Hack 2025 is the fifth edition of FOSS Hack, a hybrid hackathon to promote Free and Open Source Software by bringing together students and professionals to build or extend FOSS projects.",
+  "link": "https://fossunited.org/fosshack/2025",
+  "mentors": [
+    {
+      "name": "Rahul M Navneeth",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Srivatsav Auswin",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "MK Mukesh Kannan",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "T Aswath",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Naveen Prem",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Ravi Prasath KJ",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Bharath Sanjeevi",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Albert Richard",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Surya Prakash",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Lodhadhith JR",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Nadeem",
+      "role": "Open source enthusiast"
+    },
+    {
+      "name": "Sriman Vikram",
+      "role": "Open source enthusiast"
+    }
+  ],
+  "gallery": [],
+  "header": {
+    "url": "https://raw.githubusercontent.com/bitspaceorg/ass-ets/refs/heads/main/werk/coverphoto.png",
+    "alt": "fosshack-banner"
+  }
+}
