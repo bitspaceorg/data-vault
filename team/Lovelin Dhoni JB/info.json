@@ -1,0 +1,68 @@
+{
+  "name": "Lovelin Dhoni JB",
+  "pic": {
+    "url": "https://ik.imagekit.io/lovelin/dhoni-bitspace.jpeg",
+    "alt": "Lovelin Dhoni JB"
+  },
+  "type": "member",
+  "aka": "loves",
+  "skincolor": "#39322C",
+  "quote": "The soul tries a thousand remedies in vain; since I was captured, it’s been struggling in vain to get back on its earlier road. The sea, and the mountain, and the fire with the sword. I live in the midst of all of these together. The one who’s deprived me of my mind, and taken away my reason, won’t let me up the mountain.",
+  "maintaining": [
+    {
+      "project name": "MDCRAFT",
+      "repo url": "https://github.com/bitspaceorg/mdcraft"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fullstack Development",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Distributed Systems",
+      "level": "Intermediate"
+    },
+    {
+      "name": "NVIM",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Unix/Linux",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Competitive Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Art and Culture yapping",
+      "level": "Advanced"
+    }
+  ],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/lovelindhoni"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/lovelindhoni"
+    }
+  ],
+  "contact": {
+    "mail": "jblovelindhoni@gmail.com",
+    "discord": "alexdelarge007"
+  },
+  "body": {
+    "height": "6'0.5",
+    "weight": "75.3kg"
+  },
+  "hit ratio": "XXX",
+  "gallery": [
+    {
+      "url": "",
+      "alt": ""
+    }
+  ]
+}
